@@ -5,7 +5,8 @@ body {
 h1 {
   color: navy;
   margin-left: 20px;
-font-style: italic
+font-style: italic;
+border-style: solid;
 }
 h3 {color: aqua;
     font-size: 14px;
@@ -15,6 +16,12 @@ p {font-style: oblique}
 li {text-align: center;
     color: aqua;
     font-size: 14px;}
+img  {
+  float: left;
+    padding: 60px;
+    margin: 60px;
+}
 footer{
   font-size: 14px;
+    border-top: 4px dotted pink;  
 }
