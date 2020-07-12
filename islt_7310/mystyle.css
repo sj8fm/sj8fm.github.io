@@ -13,11 +13,11 @@ h3 {color: aqua;
 }
 p {font-style: oblique}
 
-li {text-align: center;
+li {text-align: left;
     color: aqua;
     font-size: 14px;}
 img  {
-  float: left;
+  float: right;
     padding: 20px;
     margin: 20px;
 }
