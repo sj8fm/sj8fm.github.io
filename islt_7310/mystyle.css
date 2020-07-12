@@ -12,7 +12,7 @@ h3 {color: aqua;
     font-size: 14px;
 }
 p {font-style: oblique}
-
+body {margin: 15px;}
 li {text-align: left;
     color: aqua;
     font-size: 14px;}
@@ -23,5 +23,6 @@ img  {
 }
 footer{
   font-size: 14px;
-    border-top: 4px dotted pink;  
+    padding: 5px;
+    border: 4px dotted pink;  
 }
