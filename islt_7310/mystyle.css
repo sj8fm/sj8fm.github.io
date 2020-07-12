@@ -5,7 +5,16 @@ body {
 h1 {
   color: navy;
   margin-left: 20px;
+font-style: italic
 }
+h3 {color: aqua;
+    font-size: 14px;
+}
+p {font-style: oblique}
+
+li {text-align: center;
+    color: aqua;
+    font-size: 14px;}
 footer{
   font-size: 14px;
 }
