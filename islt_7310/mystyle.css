@@ -1,28 +1,4 @@
-body {
-  background-color: lightblue;
-}
+@font-face { 
 
-h1 {
-  color: navy;
-  margin-left: 20px;
-font-style: italic;
-border-style: solid;
-}
-h3 {color: aqua;
-    font-size: 14px;
-}
-p {font-style: oblique}
-body {margin: 15px;}
-li {text-align: left;
-    color: aqua;
-    font-size: 14px;}
-img  {
-  float: right;
-    padding: 20px;
-    margin: 20px;
-}
-footer{
-  font-size: 14px;
-    padding: 5px;
-    border: 4px dotted pink;  
-}
+font-family: fontName; Red_Rose
+src: url("font.ttf"); sj8fm.github.io/islt_7310/Red_Rose.zip}
